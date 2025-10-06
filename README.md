@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Abdalla Kgamis 👋
 
 <!--
 **akhamis94/akhamis94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
