@@ -27,9 +27,7 @@
 - :man_technologist: &nbsp;Leading **IT department** for **28+ companies**
 - :globe_with_meridians: &nbsp;Managing **50+ company domains** and **web hosting**
 - :cloud: &nbsp;Expert in **Microsoft 365** & **Google Workspace** administration
-- :server: &nbsp;Building and overseeing **in-house data center** infrastructure
 - :speech_balloon: &nbsp;I like to talk about **IT Infrastructure** and **Cloud Solutions**
-- :mailbox: &nbsp;Feel free to reach out on my **[LinkedIn]** or **[Email]**
 - :saudi_arabia: &nbsp;Based in **Riyadh, Saudi Arabia**
 
 <br>
